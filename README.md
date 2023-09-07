@@ -1,8 +1,8 @@
 <p align="center">
 # 💫 About Me:
 Hello! I'm Rida Yousfi from the Netherlands, <br>i am currently studying Software Development at ROCVF. 
-
-
+</p>
+<p allign="center">
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yousfi.) 
 
@@ -18,6 +18,6 @@ Hello! I'm Rida Yousfi from the Netherlands, <br>i am currently studying Softwar
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OnayR&icon=7&color=11)](https://visitcount.itsvg.in)
-
 </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
