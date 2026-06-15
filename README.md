@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Web Dev</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning game dev.</p>
 
 ###
 
